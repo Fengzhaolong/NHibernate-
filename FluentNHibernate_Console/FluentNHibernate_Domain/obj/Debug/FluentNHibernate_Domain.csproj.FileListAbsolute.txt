@@ -1,0 +1,9 @@
+C:\Users\tidebuy\Desktop\FluentNHibernate_Console\FluentNHibernate_Domain\bin\Debug\FluentNHibernate_Domain.dll
+C:\Users\tidebuy\Desktop\FluentNHibernate_Console\FluentNHibernate_Domain\bin\Debug\FluentNHibernate_Domain.pdb
+C:\Users\tidebuy\Desktop\FluentNHibernate_Console\FluentNHibernate_Domain\bin\Debug\FluentNHibernate.dll
+C:\Users\tidebuy\Desktop\FluentNHibernate_Console\FluentNHibernate_Domain\bin\Debug\FluentNHibernate.xml
+C:\Users\tidebuy\Desktop\FluentNHibernate_Console\FluentNHibernate_Domain\obj\Debug\FluentNHibernate_Domain.csprojAssemblyReference.cache
+C:\Users\tidebuy\Desktop\FluentNHibernate_Console\FluentNHibernate_Domain\obj\Debug\FluentNHibernate_Domain.csproj.CoreCompileInputs.cache
+C:\Users\tidebuy\Desktop\FluentNHibernate_Console\FluentNHibernate_Domain\obj\Debug\FluentNHibernate_Domain.csproj.CopyComplete
+C:\Users\tidebuy\Desktop\FluentNHibernate_Console\FluentNHibernate_Domain\obj\Debug\FluentNHibernate_Domain.dll
+C:\Users\tidebuy\Desktop\FluentNHibernate_Console\FluentNHibernate_Domain\obj\Debug\FluentNHibernate_Domain.pdb
